@@ -1,6 +1,5 @@
 ## Submission for Kisan Quest
-https://devpost.com/
-
+https://kisan-quest-24686.devpost.com/
 
 ## Inspiration
 Inspiration to build this project was the need to secure the sensitive data.
@@ -42,3 +41,10 @@ I built **SilentSeal** using Python and its powerful `re` module for regular exp
 - **GUI Integration**: Build a graphical user interface (GUI) to make the tool more accessible to non-technical users.
 - **Real-Time Redaction**: Extend the tool to redact sensitive data in real-time from live streams or logs.
 - **Cloud Integration**: Enable cloud-based processing for large-scale data redaction.
+
+## Usage
+- Clone this repo or copy the script to your local machine.
+- Run the script:
+```
+ python3 redactions.py
+```
