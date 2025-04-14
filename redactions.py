@@ -35,7 +35,7 @@ log = "Logs summarized:\n\n"
 redactions = 0
 
 for pattern, count in count.items():
-    log += f"No.of {pattern}'s redacted : {count}\n"
+    log += f" No.of {pattern}'s redacted : {count}\n"
     redactions += count
 
 log += f"\nTotal count of redacted data: {redactions}"
