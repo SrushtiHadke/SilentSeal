@@ -1,9 +1,9 @@
 Logs summarized:
 
-No.of Email id's redacted : 2
-No.of Credit Card Number's redacted : 1
-No.of International Phone Number's redacted : 0
-No.of Domestic Phone Number's redacted : 2
-No.of SSN's redacted : 0
+ No.of Email id's redacted : 2
+ No.of Credit Card Number's redacted : 1
+ No.of International Phone Number's redacted : 0
+ No.of Domestic Phone Number's redacted : 2
+ No.of SSN's redacted : 0
 
 Total count of redacted data: 5
